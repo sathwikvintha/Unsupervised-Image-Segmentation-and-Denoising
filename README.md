@@ -20,8 +20,7 @@ Here is the list of libraries you need to install to execute the code:
 
 # Denoising
 
-![image](https://github.com/user-attachments/assets/b36900fb-c5fd-447b-ab9e-02e95fc37a92) ==> ![image](https://github.com/user-attachments/assets/59ef941c-6d0a-401f-906a-7ee60d53c34a)
-
+![image](https://github.com/user-attachments/assets/b36900fb-c5fd-447b-ab9e-02e95fc37a92)
 
 
 
