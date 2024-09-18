@@ -1,5 +1,3 @@
-**Warning!** The optimization may not converge on some GPUs. We've personally experienced issues on Tesla V100 and P40 GPUs. When running the code, make sure you get similar results to the paper first. Easiest to check using text inpainting notebook.  Try to set double precision mode or turn off cudnn. 
-
 # Deep image prior
 
 In this repository we provide *Jupyter Notebooks* to reproduce each figure from the paper:
@@ -18,6 +16,13 @@ Here is the list of libraries you need to install to execute the code:
 - matplotlib
 - scikit-image
 - jupyter
+
+
+# Denoising
+
+![image](https://github.com/user-attachments/assets/b36900fb-c5fd-447b-ab9e-02e95fc37a92) ==> ![image](https://github.com/user-attachments/assets/59ef941c-6d0a-401f-906a-7ee60d53c34a)
+
+
 
 
 
