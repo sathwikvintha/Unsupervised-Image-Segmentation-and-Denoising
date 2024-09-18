@@ -1,16 +1,13 @@
 # Deep image prior
 
-In this repository we provide *Jupyter Notebooks* to reproduce each figure from the paper:
-
-Here we provide hyperparameters and architectures, that were used to generate the figures. Most of them are far from optimal. Do not hesitate to change them and see the effect.
-
-We will expand this README with a list of hyperparameters and options shortly.
+The Project aims to develop unsupervised methods for image segmentation & denoising, addressing limitations of traditional approaches that rely on costly labeled data, to improve the efficiency & stability of image processing.
+Image segmentation and denoising are vital in various fields, but traditional methods require labelled data, which is costly and time-consuming; unsupervised approaches offer a scalable alternative by detecting patterns without labeled data.
 
 # Install
 
 Here is the list of libraries you need to install to execute the code:
-- python = 3.6
-- [pytorch](http://pytorch.org/) = 0.4
+- python 
+- [pytorch](http://pytorch.org/)
 - numpy
 - scipy
 - matplotlib
